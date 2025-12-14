@@ -1,0 +1,66 @@
+{
+  "68e1040726e57f736103f02c": {
+    "itemTplToClone": "5ac4cd105acfc40016339859",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/AK74M/ak74m_norod.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Kalashnikov AK-74M 5.45x39 assault rifle (no Barrel Rod)",
+        "shortName": "AK-74M",
+        "description": "A variant of the AK-74M without a barrel rod."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 26181,
+    "handbookPriceRoubles": 10643,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      }
+    ],
+    "masteries": true,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "690a9521b92ab495d00df8b4": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 36654,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "AK74",
+        "Templates": [
+          "e895575bcd1fa1de36d301b6"
+        ]
+      }
+    ]
+  }
+}

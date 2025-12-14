@@ -1,0 +1,182 @@
+{
+    "690f48891a9f90e0500b1f51": {
+    "itemTplToClone": "626becf9582c3e319310b837",
+    "parentId": "55818b164bdc2ddc698b456c",
+    "handbookParentId": "5b5f73ab86f774094242f195",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Surefire/surefire.bundle",
+        "rcid": ""
+      },
+        "Weight": 0.964,
+        "ModesCount": 2
+    },
+    "locales": {
+      "en": {
+        "name": "SureFire M340DFT-PRO Turbo Mini Scout Light Pro",
+        "shortName": "M340",
+        "description": "SureFire's Scout Light Pro series rewrote the rules of WeaponLight versatility. The M340DFT-PRO Turbo Mini Scout Light Pro combines high-candela performance and dual-fuel capability. The M340DFT-PRO's Turbo Series reflector delivers the farthest-reaching beam of any SureFire long gun WeaponLight in a compact form factor. As a result, it is ideal for long-range target identification."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_tactical_001",
+      "mod_tactical_002",
+      "mod_tactical_003",
+      "mod_mount_000",
+      "mod_mount_001",
+      "mod_mount_002"
+    ],
+    "fleaPriceRoubles": 18421,
+    "handbookPriceRoubles": 16534,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2800
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2800
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2800
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2800
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2800
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2800
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "690f48891a9f90e0500b1f52": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 22032,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+    },
+    "690f48891a9f90e0500b1f53": {
+    "itemTplToClone": "626becf9582c3e319310b837",
+    "parentId": "55818b164bdc2ddc698b456c",
+    "handbookParentId": "5b5f73ab86f774094242f195",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Surefire/surefire_fde.bundle",
+        "rcid": ""
+      },
+        "Weight": 0.964,
+        "ModesCount": 2
+    },
+    "locales": {
+      "en": {
+        "name": "SureFire M340DFT-PRO Turbo Mini Scout Light Pro FDE",
+        "shortName": "M340",
+        "description": "SureFire's Scout Light Pro series rewrote the rules of WeaponLight versatility. The M340DFT-PRO Turbo Mini Scout Light Pro combines high-candela performance and dual-fuel capability. The M340DFT-PRO's Turbo Series reflector delivers the farthest-reaching beam of any SureFire long gun WeaponLight in a compact form factor. As a result, it is ideal for long-range target identification. FDE Variant."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [
+      "mod_tactical_001",
+      "mod_tactical_002",
+      "mod_tactical_003",
+      "mod_mount_000",
+      "mod_mount_001",
+      "mod_mount_002"
+    ],
+    "fleaPriceRoubles": 18421,
+    "handbookPriceRoubles": 16534,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 2800
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 2800
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 2800
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 2800
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 2800
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 2800
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "690f48891a9f90e0500b1f54": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 22032,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "M4",
+        "Templates": [
+          "4b81488c78c8a8ac7d37f9b9"
+        ]
+      }
+    ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+  "68d96442d7aac8a7a904db00": {
+    "itemTplToClone": "5ac66d9b5acfc4001633997a",
+    "parentId": "5447b5f14bdc2d61278b4567",
+    "handbookParentId": "5b5f78fc86f77409407a7f90",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "Mods/AK105/ak105_norod.bundle",
+        "rcid": ""
+      }
+    },
+    "locales": {
+      "en": {
+        "name": "Kalashnikov AK-105 5.45x39 assault rifle (no Barrel Rod)",
+        "shortName": "AK-105",
+        "description": "A variant of the AK-105 without a barrel rod."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 30862,
+    "handbookPriceRoubles": 18700,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 250
+      },
+      {
+        "containerName": "LOOTCONTAINER_DEAD_SCAV",
+        "probability": 150
+      }
+    ],
+    "masteries": true,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "MECHANIC": {
+        "690a9521b92ab495d00df8ac": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99
+          },
+          "barters": [
+            {
+              "count": 40452,
+              "_tpl": "MONEY_ROUBLES"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": [
+      {
+        "Name": "AK74",
+        "Templates": [
+          "e895575bcd1fa1de36d301b6"
+        ]
+      }
+    ]
+  }
+}
